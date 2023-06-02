@@ -102,6 +102,7 @@
     }
   },
   "dependencies": {
+    "jquery": "^3.7.0",
     "katex": "^0.16.7"
   }
 }
